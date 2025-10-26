@@ -20,7 +20,7 @@ either through your **PC speaker** (buzzer) or your **headphones**
 
 ### Clone or download
 ```bash
-git clone https://github.com/yourusername/morse2beep.git
+git clone https://github.com/athamour1/morse2beep_bash.git
 cd morse2beep
 ```
 
